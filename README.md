@@ -4,18 +4,20 @@ This project implements a **Retrieval-Augmented Generation (RAG)** system using 
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
+```text
 RAG chat system/
-├── dataset1.csv # Knowledge base used for document retrieval
-├── retriever_index.faiss # Pre-built FAISS vector index
-├── retriever.ipynb # Code for indexing and retrieving relevant documents
-├── main.ipynb # Executes retrieval + generation workflow
-├── evaluate.ipynb # Evaluates response quality using metrics
-├── prompt.txt # Template prompt used to guide the LLM
-├── generation_output.txt # Stores generated output from the model
-├── Report.pdf # Complete documentation of the system
-└── README.md # Project documentation (this file)
+├── dataset1.csv              # Knowledge base used for document retrieval
+├── retriever_index.faiss     # Pre-built FAISS vector index
+├── retriever.ipynb           # Code for indexing and retrieving relevant documents
+├── main.ipynb                # Executes retrieval + generation workflow
+├── evaluate.ipynb            # Evaluates response quality using metrics
+├── prompt.txt                # Template prompt used to guide the LLM
+├── generation_output.txt     # Stores generated output from the model
+├── Report.pdf                # Complete documentation of the system
+└── README.md                 # Project documentation (this file)
+
 
 
 ---
