@@ -17,7 +17,7 @@ RAG chat system/
 ├── generation_output.txt     # Stores generated output from the model
 ├── Report.pdf                # Complete documentation of the system
 └── README.md                 # Project documentation (this file)
-
+```
 
 
 ---
