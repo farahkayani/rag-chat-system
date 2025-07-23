@@ -1,7 +1,5 @@
 # rag-chat-system
 A custom Retrieval-Augmented Generation (RAG) chat system with a local retriever and domain-specific dataset.
-# RAG Chat System
-
 This project implements a **Retrieval-Augmented Generation (RAG)** system using FAISS and a local dataset to simulate intelligent, context-aware response generation. The system is designed to retrieve the most relevant documents based on a user query and generate an informed answer using a prompt-based language model. It is modular, consisting of separate notebooks for indexing, querying, generation, and evaluation.
 
 ---
