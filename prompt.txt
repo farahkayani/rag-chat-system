@@ -1,0 +1,9 @@
+Context:
+1. A baby panda is called a cub.
+2. Yes, the panda is a national treasure of China and a symbol of wildlife conservation.
+3. A panda is a bear species native to China known for its black and white fur.
+
+Question:
+ how big is a panda?
+
+Answer:
