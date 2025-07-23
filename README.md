@@ -15,7 +15,6 @@ RAG chat system/
 ├── evaluate.ipynb            # Evaluates response quality using metrics
 ├── prompt.txt                # Template prompt used to guide the LLM
 ├── generation_output.txt     # Stores generated output from the model
-├── Report.pdf                # Complete documentation of the system
 └── README.md                 # Project documentation (this file)
 ```
 
